@@ -1,6 +1,6 @@
-# LearnHub Navigator
+# CodeQuest
 
-LearnHub Navigator is your ultimate destination for discovering curated learning resources across various platforms. Whether you're delving into Python, C++, Java, or any other technology, our platform, powered by PaLM, ensures you find quality courses on your preferred platforms like YouTube, Udemy, and Coursera. Empower your learning journey with a personalized map to the best online resources.
+CodeQuest is your ultimate destination for discovering curated learning resources across various platforms. Whether you're delving into Python, C++, Java, or any other technology, our platform, powered by PaLM, ensures you find quality courses on your preferred platforms like YouTube, Udemy, and Coursera. Empower your learning journey with a personalized map to the best online resources.
 
 ## Table of Contents
 - [Key Features](#key-features)
